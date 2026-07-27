@@ -1,1 +1,25 @@
+site_name: Priya Srivastava | Engineering Leadership Portfolio
+site_description: Enterprise Engineering, Technical Program Management, AI-Aware Enterprise Engineering, Distributed Systems, and Technology Leadership
+site_author: Priya Srivastava
+site_url: https://priya-dev-public-profile.github.io/engineering-portfolio/
 
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - About: about.md
+  - Engineering Leadership: leadership.md
+  - Enterprise Architecture: architecture.md
+  - AI-Aware Engineering: ai.md
+  - Technical Program Management: technical-program-management.md
+  - Case Studies: case-studies.md
+  - Blog: blogs.md
+  - Resume: resume.md
+  - Contact: contact.md
+
+markdown_extensions:
+  - admonition
+  - tables
+  - toc:
+      permalink: true
