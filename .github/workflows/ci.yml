@@ -31,7 +31,7 @@ jobs:
         with:
           python-version: "3.x"
 
-      - name: Install MkDocs Material
+      - name: Install dependencies
         run: |
           pip install mkdocs-material
 
@@ -46,6 +46,6 @@ jobs:
         with:
           path: site
 
-      - name: Deploy to GitHub Pages
+      - name: Deploy
         id: deployment
         uses: actions/deploy-pages@v4
