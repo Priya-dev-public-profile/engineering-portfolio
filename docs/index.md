@@ -1,17 +1,18 @@
-# Engineering Leadership Portfolio
+# Engineering Leadership for Enterprise Systems
 
 Welcome!
 
-I'm **Priya Srivastava**, an Engineering Leader with 18+ years of experience building enterprise software platforms, leading cross-functional programs, modernizing legacy systems, and enabling AI-aware enterprise solutions.
+I'm an hands on Engineering Leader with 18+ years of experience delivering enterprise software across Telecom, Financial Services, Enterprise Security, and Cloud platforms.
+
+I specialize in modernizing complex enterprise systems, shaping technical strategy, enabling engineering teams, and driving delivery through architectural thinking and engineering excellence.
 
 ## What you'll find here
 
 - Engineering Leadership
 - Enterprise Architecture
 - Distributed Systems
-- AI-Aware Enterprise Engineering
-- Technical Program Management
+- AI for Enterprise Engineering
 - Case Studies
-- Engineering Blog
+- Insight
 
 Thank you for visiting!
