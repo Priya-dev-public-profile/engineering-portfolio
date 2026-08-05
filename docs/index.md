@@ -11,6 +11,7 @@ I specialize in modernizing complex enterprise systems, shaping technical strate
 - Engineering Leadership
 - Enterprise Architecture
 - Distributed Systems
+- Modernization
 - AI for Enterprise Engineering
 - Case Studies
 - Insight
