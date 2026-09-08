@@ -9,7 +9,9 @@ theme:
 nav:
   - Home: index.md
   - About: about.md
-  - Engineering Leadership: leadership.md
+  - Engineering Leadership:
+    - Overview: leadership.md
+    - Backlog & Release Planning Framework: leadership/backlog-release-planning.md
   - Enterprise Architecture: architecture.md
   - Distributed Systems: distributed_system.md
   - Modernization: modernization.md
