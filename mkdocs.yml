@@ -5,7 +5,9 @@ site_url: https://priya-dev-public-profile.github.io/engineering-portfolio/
 
 theme:
   name: material
-
+  features:
+    - content.icons
+    
 nav:
   - Home: index.md
   - About: about.md
