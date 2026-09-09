@@ -11,7 +11,7 @@ nav:
   - About: about.md
   - Engineering Leadership:
     - Overview: leadership.md
-    - Backlog Release Planning: leadership/backlog-release-planning.md
+    - Backlog & Release Planning Framework: leadership/backlog-release-planning.md
   - Enterprise Architecture: architecture.md
   - Distributed Systems: distributed_system.md
   - Modernization: modernization.md
