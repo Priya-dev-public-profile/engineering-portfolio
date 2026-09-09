@@ -26,8 +26,8 @@ The common thread throughout my career has been:
 
 ## Leadership Journey
 
-### :material-office-building: Oracle — Enterprise Technical Leadership
-
+### Oracle — Enterprise Technical Leadership
+:material-office-building:
 At Oracle, my role evolved into broader technical ownership and cross-functional engineering leadership for enterprise middleware and cloud platforms.
 
 I led technical delivery and engineering execution for Oracle HTTP Server and related platform capabilities, working across globally distributed teams.
