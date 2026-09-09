@@ -1,5 +1,15 @@
 # Engineering Leadership
 
+# Executive Summary
+
+- **19+ years** of enterprise engineering leadership across Telecom, Financial Services, Security, Middleware, and Cloud.
+- At **Oracle**, improved release execution efficiency by **30%** and reduced production-impacting issues by **35%**.
+- At **Intuit**, modernized QuickBooks backend using Node.js and mentored engineers in technical decision-making.
+- At **Tecnotree**, combined engineering leadership with **Product Ownership**, driving backlog prioritization and modernization of telecom platforms.
+- At **Samsung**, delivered mobile tracking and application solutions in collaborative engineering teams.
+- At **Comviva**, built a strong foundation in C/C++, Unix/Linux, and telecom systems, focusing on reliability and scalability.
+- Leadership philosophy: *Enable teams, shape direction, and connect technology with business outcomes.*
+
 ## From Technical Depth to Enterprise Engineering Leadership
 
 Today, I operate at the intersection of **engineering, architecture, product thinking, delivery, and people leadership**.
@@ -16,7 +26,7 @@ The common thread throughout my career has been:
 
 ## Leadership Journey
 
-### Oracle — Enterprise Technical Leadership
+### :material-office-building: Oracle — Enterprise Technical Leadership
 
 At Oracle, my role evolved into broader technical ownership and cross-functional engineering leadership for enterprise middleware and cloud platforms.
 
@@ -37,7 +47,7 @@ My responsibilities included:
 This experience strengthened my ability to operate beyond an individual engineering team and work across multiple functions to drive enterprise outcomes.
 
 Key outcomes included:
-
+!!! success "Key Outcomes at Oracle"
 - **30% improvement in release execution efficiency**
 - **35% reduction in production-impacting issues**
 - **15% improvement in defect leakage**
@@ -46,7 +56,7 @@ This phase of my career represents an important shift from primarily owning tech
 
 ---
 
-### Intuit — Principal Engineering & Platform Modernization
+### :material-office-building: Intuit — Principal Engineering & Platform Modernization
 
 At Intuit, I worked as a **Principal Engineer** on the QuickBooks platform, contributing to modernization of enterprise software and development of scalable backend capabilities.
 
